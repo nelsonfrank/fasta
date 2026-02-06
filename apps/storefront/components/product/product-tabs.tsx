@@ -1,6 +1,6 @@
 "use client"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@workspace/ui/components/tabs"
-import { ProductReviews } from "./product-reviews.js"
+import { ProductReviews } from "./product-reviews"
 
 export function ProductTabs() {
   return (

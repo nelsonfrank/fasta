@@ -4,7 +4,7 @@ import Image from "next/image"
 import { Heart, ShoppingCart, Star, Check, Truck } from "lucide-react"
 import { Button } from "@workspace/ui/components/button"
 import { Badge } from "@workspace/ui/components/badge"
-import type { FilterState } from "./search-content.js"
+import type { FilterState } from "./search-content"
 
 interface SearchResultsProps {
   filters: FilterState

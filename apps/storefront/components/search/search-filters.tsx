@@ -4,7 +4,7 @@ import { X } from "lucide-react"
 import { Button } from "@workspace/ui/components/button"
 import { Checkbox } from "@workspace/ui/components/checkbox"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@workspace/ui/components/accordion"
-import type { FilterState } from "./search-content.js"
+import type { FilterState } from "./search-content"
 
 interface SearchFiltersProps {
   filters: FilterState

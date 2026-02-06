@@ -1,10 +1,10 @@
 "use client"
 
-import { ProductGallery } from "./product-gallery.js"
-import { ProductInfo } from "./product-info.js"
-import { ProductTabs } from "./product-tabs.js"
-import { SellerInfo } from "./seller-info.js"
-import { RelatedProducts } from "./related-products.js"
+import { ProductGallery } from "./product-gallery"
+import { ProductInfo } from "./product-info"
+import { ProductTabs } from "./product-tabs"
+import { SellerInfo } from "./seller-info"
+import { RelatedProducts } from "./related-products"
 
 export function ProductContent() {
   return (
