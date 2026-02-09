@@ -5,7 +5,7 @@ import { Heart, ShoppingCart, Share2, Star, Check, Truck, Shield, RotateCcw, Min
 import { Button } from "@workspace/ui/components/button"
 import { Badge } from "@workspace/ui/components/badge"
 import { Separator } from "@workspace/ui/components/separator"
-import { cn } from "@/lib/utils"
+import { cn } from "@workspace/ui/lib/utils"
 import { useCart } from "@/lib/cart-context"
 
 const colorOptions = [

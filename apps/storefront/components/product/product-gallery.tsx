@@ -4,7 +4,7 @@ import { useState } from "react"
 import Image from "next/image"
 import { ChevronLeft, ChevronRight, ZoomIn } from "lucide-react"
 import { Button } from "@workspace/ui/components/button"
-import { cn } from "@/lib/utils"
+import { cn } from "@workspace/ui/lib/utils"
 
 const productImages = [
   {
